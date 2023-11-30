@@ -25,6 +25,7 @@ public class testSelectionSort {
 		testDuplicates();
 	}
 	public testSelectionSort() {
+		test();
 	}
 	public void testPositive(){
 		int[] arr = new int[5];
